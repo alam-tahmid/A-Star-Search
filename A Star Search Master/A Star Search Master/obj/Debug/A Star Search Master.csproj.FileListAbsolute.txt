@@ -1,0 +1,6 @@
+D:\Workspace\Workspace_C#\A Star Search Master\A Star Search Master\bin\Debug\A Star Search Master.exe.config
+D:\Workspace\Workspace_C#\A Star Search Master\A Star Search Master\bin\Debug\A Star Search Master.exe
+D:\Workspace\Workspace_C#\A Star Search Master\A Star Search Master\bin\Debug\A Star Search Master.pdb
+D:\Workspace\Workspace_C#\A Star Search Master\A Star Search Master\obj\Debug\A Star Search Master.csprojResolveAssemblyReference.cache
+D:\Workspace\Workspace_C#\A Star Search Master\A Star Search Master\obj\Debug\A Star Search Master.exe
+D:\Workspace\Workspace_C#\A Star Search Master\A Star Search Master\obj\Debug\A Star Search Master.pdb
